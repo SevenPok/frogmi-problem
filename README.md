@@ -49,15 +49,15 @@ node build/index.js
 ```typescript
 private report: string;
 ```
- - Variable that stores the incidence solution
+  - Variable that stores the incidence solution
 ```typescript
 private solution: string;
 ```
- - Variable that stores the incidence status 'open' or 'solved'
+  - Variable that stores the incidence status 'open' or 'solved'
 ```typescript
 private status: string;
 ```
- - Variable that stores the date incidence
+  - Variable that stores the date incidence
 ```typescript
 private date: Date;
 ```
